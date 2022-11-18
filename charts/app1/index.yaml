@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-18T10:28:39.5588903+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a913536255aa88d524941c8c8d29df4d9e4cff011a7aff7997292ea78e2e1960
+    name: app1
+    type: application
+    urls:
+    - https://kithrian.github.io/helm-repo/app1-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-18T10:28:39.5578166+01:00"
